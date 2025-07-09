@@ -2,8 +2,10 @@
 
 TO DO:
 discord like web app:
-chat
-voice
-video
-screenshare
-files
+<ul>
+<li>chat</li>
+<li>voice</li>
+<li>video</li>
+<li>screenshare</li>
+<li>files</li>
+</ul>
